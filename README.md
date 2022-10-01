@@ -1,6 +1,8 @@
 ## This is a project in reactjs for Meta Front-end Developer Course.
 ### The app basicly does summation, subtraction, multiplication, division.
 
+![alt text](https://raw.githubusercontent.com/erkingonultas/Meta-Course-Project-Calculator/master/public/ss.png "Screenshot")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
